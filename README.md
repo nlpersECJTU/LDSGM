@@ -15,9 +15,9 @@ Download the [PDTB2.0](https://www.seas.upenn.edu/~pdtb/) and process the data i
 
 ![](https://github.com/nlpersECJTU/LDSGM/sample.png)
 
-and put it under /PDTB/Ji/data
+and put it under /PDTB/Ji/data/
 
-Download the pretrained model [roberta base](https://huggingface.co/roberta-base/tree/main),put it under /pretrained/roberta-base
+Download the pretrained model [roberta base](https://huggingface.co/roberta-base/tree/main),put it under /pretrained/roberta-base/
 
 ## Run
 
