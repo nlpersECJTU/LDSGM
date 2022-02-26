@@ -11,7 +11,7 @@ pytorch_pretrained_bert 0.6.2
 
 ### DataSet
 
-Download the [PDTB2.0](https://www.seas.upenn.edu/~pdtb/) and process the data into the following format:
+Download the [PDTB2.0](https://www.seas.upenn.edu/~pdtb/) ,divided into training set(train.txt),validation set(dev.txt),test set(test.txt) and process the data into the following format:
 
 ![](https://github.com/nlpersECJTU/LDSGM/blob/main/sample.png)
 
