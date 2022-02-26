@@ -13,7 +13,7 @@ pytorch_pretrained_bert 0.6.2
 
 Download the [PDTB2.0](https://www.seas.upenn.edu/~pdtb/) and process the data into the following format:
 
-![](https://github.com/nlpersECJTU/LDSGM/sample.png)
+![](https://github.com/nlpersECJTU/LDSGM/blob/main/sample.png)
 
 and put it under /PDTB/Ji/data/
 
