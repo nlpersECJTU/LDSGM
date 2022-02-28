@@ -1,5 +1,5 @@
 # LDSGM
-##  A Label Dependence-aware Sequence Generation Model for Multi-level Implicit Discourse Relation Recognition 
+##  A Label Dependence-aware Sequence Generation Model for Multi-level Implicit Discourse Relation Recognition (AAAI 22)
 
 ### Main Dependecies and installation
 
